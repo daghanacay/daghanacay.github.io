@@ -1,0 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Daghan Acay Home
+email: daghanacay at gmail dot com
+description: > # this means to ignore newlines until "baseurl:"
+  Welcome to Daghan's web page. I will share my experiences and thoughts regarding software development in this pages. I hope you enjoy it. Please leave a message using twitter or take a look at my projects at github 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://daghanacay.github.io/" # the base hostname & protocol for your site
+twitter_username: daghan2
+github_username:  daghanacay
+
+# Build settings
+markdown: kramdown
