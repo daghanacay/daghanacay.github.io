@@ -3,13 +3,14 @@ layout: page
 title: About
 permalink: /about/
 ---
-{{page.title}} and the site name {{site.title}}
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I am a technology enthusiast. I am an expert in Java and OSGi. I also use other frameworks for building complicated back end systems. I am interested in:
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+* OSGi
+* Lora network
+* IoT applications
+* Data analysis thourgh lambda architecture
+* Development best practices
+* Deployment strategies and cloud technologies
+
+I can help your organization by providing advice on proven development technologies, deployment infrastructure, and team structures in agile world.
