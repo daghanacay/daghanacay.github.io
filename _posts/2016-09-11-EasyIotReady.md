@@ -14,7 +14,7 @@ Full details:
 
 Repositories:
 
-[Application git repository](https://github.com/daghanacay/com.easyiot.application)
-[Device git repository](https://github.com/daghanacay/com.easyiot.device)
-[Protocol git repository](https://github.com/daghanacay/com.easyiot.protocol)
-[Core git repository](https://github.com/daghanacay/com.easyiot.core)
+* [Application git repository](https://github.com/daghanacay/com.easyiot.application)
+* [Device git repository](https://github.com/daghanacay/com.easyiot.device)
+* [Protocol git repository](https://github.com/daghanacay/com.easyiot.protocol)
+* [Core git repository](https://github.com/daghanacay/com.easyiot.core)
