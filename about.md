@@ -13,4 +13,4 @@ I am a technology enthusiast. I am an expert in Java and OSGi. I also use other 
 * Development best practices
 * Deployment strategies and cloud technologies
 
-I can help your organization by providing advice on proven development technologies, deployment infrastructure, and team structures in agile world. Adding more info
+I can help your organization by providing advice on proven development technologies, deployment infrastructure, and team structures in agile world.
