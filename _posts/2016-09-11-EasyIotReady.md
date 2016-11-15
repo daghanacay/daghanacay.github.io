@@ -6,7 +6,7 @@ categories: iot OSGi
 
 Easy IoT is a platform that makes configuration driven plugable IoT development easy. It supports various layers from application development to device integration. It is built on the famous REST principles, single page application, dynamic provisioning, and CLI support. You can create and update your own IoT package easily depending on your needs and devices the you interact. The core is kept small and functionality is separated into logical components. Following is the core architecture.
 
-![My helpful screenshot]({{ site.url }}/assets/img/Developers_Guide.jpg)
+![My helpful screenshot]({{ base.url }}/assets/img/Developers_Guide.jpg)
 
 Full details:
 
