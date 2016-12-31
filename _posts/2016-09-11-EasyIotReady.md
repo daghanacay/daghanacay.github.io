@@ -8,11 +8,15 @@ Easy IoT is a platform that makes configuration driven plugable IoT development 
 
 ![My helpful screenshot]({{ base.url }}/assets/img/Developers_Guide.jpg)
 
-Full details:
+Docker container for heatmap application:
 
-[EasyIot Documentation](https://docs.google.com/document/d/1CZRFyxjODB_15P4gc-ZzwLy0zx7Elq0_Ym6xrEubPAA/edit#)
+* [Docker repo](https://hub.docker.com/r/daghanacay/easy-iot-minimal/)
 
-Repositories:
+Full documentation:
+
+* [EasyIot Documentation](https://docs.google.com/document/d/1CZRFyxjODB_15P4gc-ZzwLy0zx7Elq0_Ym6xrEubPAA/edit#)
+
+Source code repositories:
 
 * [Application git repository](https://github.com/daghanacay/com.easyiot.application)
 * [Device git repository](https://github.com/daghanacay/com.easyiot.device)
