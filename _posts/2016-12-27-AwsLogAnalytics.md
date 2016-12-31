@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title:  "Build log analytics solution using AWS"
 categories: AWS, streaming
